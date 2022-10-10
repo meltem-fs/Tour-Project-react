@@ -1,0 +1,28 @@
+ul{
+    display: flex;
+    column-gap: 2rem;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    color: white;
+   padding: 1rem;
+   
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+}
+li:hover{
+    color: black;
+    background-color: lightblue;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: black;
+}
