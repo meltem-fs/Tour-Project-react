@@ -1,20 +1,25 @@
 .main{
     display: flex;
     flex-wrap: wrap;
-    gap: 1.5rem;
+    gap:3rem 1rem;
     justify-content: space-around;
+    padding: 3rem 0;
+}
+h2{
+    color: lightblue;
+    padding:1rem;
 }
 
 .main img{
-    width: 29rem;
-    height: 25rem;
+    width: 28rem;
+    height: 24rem;
 }
 
 .container{
-    border: 2px solid black;
-    width: 30rem;
+    width: 33rem;
     height: 30rem;
-    
+    background-color:black;
+    border-radius: 20px;
 }
 
 .city{
@@ -27,12 +32,18 @@
     transform: translateY(100%);
     bottom: 0;
     transition: all ease-in-out 1s;
+    padding: 1rem;
 
 }
 .city:hover .description{
     transform: translateY(0%);
+    color: white;
+    background-color: black;
+    
 }
 
 .city:hover{
-    filter: grayscale(90%);
+    filter: grayscale(60%);
+    
 }
+

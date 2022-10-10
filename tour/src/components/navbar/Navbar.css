@@ -19,6 +19,9 @@ li:hover{
     color: black;
     background-color: lightblue;
 }
+li:hover a{
+    color: black;
+}
 
 .navbar{
     display: flex;
