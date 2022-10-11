@@ -1,4 +1,3 @@
-![Animation](https://user-images.githubusercontent.com/101893145/194864435-8abcf194-0f5a-4724-8f41-78e4d954d4ac.gif)
 
 
 
