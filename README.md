@@ -1,6 +1,10 @@
 
 [click here to see](https://meltem-fs.github.io/Tour-Project-react/)
 
+
+![Animation](https://user-images.githubusercontent.com/101893145/195187647-a02f5031-9a01-4a46-a30c-4d73755949b6.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
