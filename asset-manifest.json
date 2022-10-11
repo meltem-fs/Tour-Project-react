@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tour-Project-react/static/css/main.07c55490.css",
+    "main.js": "/Tour-Project-react/static/js/main.be0b499c.js",
+    "index.html": "/Tour-Project-react/index.html",
+    "main.07c55490.css.map": "/Tour-Project-react/static/css/main.07c55490.css.map",
+    "main.be0b499c.js.map": "/Tour-Project-react/static/js/main.be0b499c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07c55490.css",
+    "static/js/main.be0b499c.js"
+  ]
+}
